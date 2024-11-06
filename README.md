@@ -75,7 +75,7 @@ GP16 for RX, GP17 for CSn and GP18 for SCK. In the absence of an
 external reference voltage, **3V3(OUT)** has been connected to
 **V<sub>REF</sub>** on the MCP3001.
 
-<img src="img/Pico-MCP3001_bb.jpg" width="1112" height="656"
+<img src="img/Pico-MCP3001_bb.jpg" width="704" height="416"
 alt="image of an electronics breadboard, with a green Raspberry Pi
 Pico board connected to an 8-pin MCP3001 ADC chip, with the output of
 a small blue potentiometer being fed into the ADC input" />
